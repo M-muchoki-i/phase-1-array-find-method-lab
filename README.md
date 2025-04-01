@@ -23,7 +23,7 @@ In this lab, we'll practice using the `find()` method.
 
 ## Practice Using `find()` to Isolate a Specific Result
 
-Let's create a function that uses the method `find()` to single out a specific
+Let's create a function that uses the method `find()` to single out a specific 
 result in game record data for the Denver Broncos football team. We want to
 find out if, at _any_ point in the team's existence, they've had a win in the
 Superbowl. Our data looks like this:
